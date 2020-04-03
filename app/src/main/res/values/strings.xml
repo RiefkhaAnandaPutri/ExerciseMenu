@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exercise Menu</string>
+    <string name="labelapp">LOGIN USER</string>
+    <string name="un">Nama</string>
+    <string name="al">Alamat</string>
+    <string name="telp">No. Telpon</string>
+    <string name="btn">DAFTAR</string>
+    <string name="hsl">Ini Tampilan Hasil</string>
+    <string name="masukkan_password">Masukkan Alamat</string>
+    <string name="masukkan_username">Masukkan Nama</string>
+    <string name="masukkan_telpon">Masukkan No.Telpon</string>
+    <string name="menu_1">Menu1</string>
+    <string name="menu_2">Menu2</string>
+    <string name="menu_3">Menu3</string>
+</resources>
